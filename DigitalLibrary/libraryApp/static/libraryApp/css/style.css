@@ -1,0 +1,24 @@
+.selector-for-some-widget {
+  box-sizing: border-box;
+}
+/*.navbar{
+  height: 4rem!important;
+  background-color: skyblue!important;
+}
+.navbar .navbar-brand{
+  color: black!important;
+  font-size: 2rem;
+  font-weight: 500;
+}*/
+.navbar-nav {
+  margin-right: 5rem!important;
+}
+.navbar-nav .nav-item{
+  margin-left:2.5rem!important;
+}
+.col .box1{
+  width:20rem;
+  height: 25rem;
+  display:flex!important;
+  justify-content: space-around!important;
+}

@@ -1,0 +1,11 @@
+python-decouple
+django_countries
+bootstrap5
+crispy_forms
+python-decouple
+Django==4.0.3
+django-crispy-forms
+django-countries
+django-bootstrap-v5
+stripe
+django-autoslug

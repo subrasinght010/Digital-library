@@ -12,5 +12,5 @@ Repo for our Django Project Deployment
  # or can deactivate after use
  conda deactivate LibraryEnv
 # 4-clone repo from terminal/command prompt
- git clone https://github.com/subrasinght010/Django-deployment-DigitalLibrary.git
+ git clone https://github.com/subrasinght010/Digital-library.git
 
